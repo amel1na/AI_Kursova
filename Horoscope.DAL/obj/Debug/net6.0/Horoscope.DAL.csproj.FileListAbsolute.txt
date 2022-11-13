@@ -1,0 +1,14 @@
+W:\Projects\VisualStudio\Horoscope\Horoscope.DAL\bin\Debug\net6.0\Horoscope.DAL.deps.json
+W:\Projects\VisualStudio\Horoscope\Horoscope.DAL\bin\Debug\net6.0\Horoscope.DAL.runtimeconfig.json
+W:\Projects\VisualStudio\Horoscope\Horoscope.DAL\bin\Debug\net6.0\Horoscope.DAL.dll
+W:\Projects\VisualStudio\Horoscope\Horoscope.DAL\bin\Debug\net6.0\Horoscope.DAL.pdb
+W:\Projects\VisualStudio\Horoscope\Horoscope.DAL\obj\Debug\net6.0\Horoscope.DAL.csproj.AssemblyReference.cache
+W:\Projects\VisualStudio\Horoscope\Horoscope.DAL\obj\Debug\net6.0\Horoscope.DAL.GeneratedMSBuildEditorConfig.editorconfig
+W:\Projects\VisualStudio\Horoscope\Horoscope.DAL\obj\Debug\net6.0\Horoscope.DAL.AssemblyInfoInputs.cache
+W:\Projects\VisualStudio\Horoscope\Horoscope.DAL\obj\Debug\net6.0\Horoscope.DAL.AssemblyInfo.cs
+W:\Projects\VisualStudio\Horoscope\Horoscope.DAL\obj\Debug\net6.0\Horoscope.DAL.csproj.CoreCompileInputs.cache
+W:\Projects\VisualStudio\Horoscope\Horoscope.DAL\obj\Debug\net6.0\Horoscope.DAL.dll
+W:\Projects\VisualStudio\Horoscope\Horoscope.DAL\obj\Debug\net6.0\refint\Horoscope.DAL.dll
+W:\Projects\VisualStudio\Horoscope\Horoscope.DAL\obj\Debug\net6.0\Horoscope.DAL.pdb
+W:\Projects\VisualStudio\Horoscope\Horoscope.DAL\obj\Debug\net6.0\Horoscope.DAL.genruntimeconfig.cache
+W:\Projects\VisualStudio\Horoscope\Horoscope.DAL\obj\Debug\net6.0\ref\Horoscope.DAL.dll
